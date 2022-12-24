@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/destinyapp/static/css/main.cb151a21.css",
-    "main.js": "/destinyapp/static/js/main.aae0c5d5.js",
+    "main.js": "/destinyapp/static/js/main.f0c8b3eb.js",
     "static/js/787.32513587.chunk.js": "/destinyapp/static/js/787.32513587.chunk.js",
     "static/media/brand-icons.svg": "/destinyapp/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/destinyapp/static/media/icons.62d9dae4e0040e81c980.svg",
-    "static/media/r.png": "/destinyapp/static/media/r.b150ac6a62d097436a74.png",
     "static/media/outline-icons.svg": "/destinyapp/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/destinyapp/static/media/icons.a01e3f2d6c83dc3aee17.eot",
     "static/media/icons.ttf": "/destinyapp/static/media/icons.c656b8caa454ed19b9a2.ttf",
@@ -23,11 +22,11 @@
     "static/media/logo.svg": "/destinyapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/destinyapp/index.html",
     "main.cb151a21.css.map": "/destinyapp/static/css/main.cb151a21.css.map",
-    "main.aae0c5d5.js.map": "/destinyapp/static/js/main.aae0c5d5.js.map",
+    "main.f0c8b3eb.js.map": "/destinyapp/static/js/main.f0c8b3eb.js.map",
     "787.32513587.chunk.js.map": "/destinyapp/static/js/787.32513587.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb151a21.css",
-    "static/js/main.aae0c5d5.js"
+    "static/js/main.f0c8b3eb.js"
   ]
 }
