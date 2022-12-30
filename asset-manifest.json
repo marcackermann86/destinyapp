@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/destinyapp/static/css/main.1e4eddaa.css",
-    "main.js": "/destinyapp/static/js/main.1544cd88.js",
+    "main.js": "/destinyapp/static/js/main.46a79b06.js",
     "static/js/787.32513587.chunk.js": "/destinyapp/static/js/787.32513587.chunk.js",
+    "static/media/d2logo2.png": "/destinyapp/static/media/d2logo2.bcd69d90e1e38ce3720d.png",
+    "static/media/sad_panda.jpg": "/destinyapp/static/media/sad_panda.24bfada09aae8c72a39f.jpg",
     "static/media/logo.svg": "/destinyapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/destinyapp/index.html",
     "main.1e4eddaa.css.map": "/destinyapp/static/css/main.1e4eddaa.css.map",
-    "main.1544cd88.js.map": "/destinyapp/static/js/main.1544cd88.js.map",
+    "main.46a79b06.js.map": "/destinyapp/static/js/main.46a79b06.js.map",
     "787.32513587.chunk.js.map": "/destinyapp/static/js/787.32513587.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e4eddaa.css",
-    "static/js/main.1544cd88.js"
+    "static/js/main.46a79b06.js"
   ]
 }
